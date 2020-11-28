@@ -1,1 +1,1 @@
-window.location.replace("https://docs.wpilib.org/");
+window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
