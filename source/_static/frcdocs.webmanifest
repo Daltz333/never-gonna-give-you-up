@@ -1,0 +1,21 @@
+{
+  "name": "FRC Docs",
+  "short_name": "FRC Docs",
+  "theme_color": "#003974",
+  "background_color": "#003974",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/index.html",
+  "icons": [
+  {
+    "src": "/_static/first-logo-256px.png",
+    "type": "image/png",
+    "sizes": "256x256"
+  },
+  {
+    "src": "/_static/first-logo-512px.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }
+  ]
+}
