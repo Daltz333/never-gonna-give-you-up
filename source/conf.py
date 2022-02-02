@@ -59,6 +59,7 @@ local_extensions = [
     "_extensions.post_process",
     "_extensions.rtd_patch",
     "_extensions.localization",
+    "_extensions.pwa_service"
 ]
 
 extensions += local_extensions
